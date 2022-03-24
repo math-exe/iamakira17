@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamakira17
-- 👀 I’m interested in ... learn Python, C, HTML, Java and JavaScript
+- 👀 I’m interested in ... learn Python, C
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @matheus19bressan, matheus.bressan467.
